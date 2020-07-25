@@ -373,7 +373,10 @@
 			baseConfigurationReference = 69C4B45D154C49D336A8709D /* Pods-CheckInOMAPP.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: OMAPP HK (XKS8VJ4UCE)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: OMAPP HK (XKS8VJ4UCE)";
 				DEVELOPMENT_TEAM = 33VF9N2Q2A;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				INFOPLIST_FILE = CheckInOMAPP/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -390,7 +393,9 @@
 			baseConfigurationReference = 558439B6CF72722C5B44E93A /* Pods-CheckInOMAPP.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer: OMAPP HK (XKS8VJ4UCE)";
 				DEVELOPMENT_TEAM = 33VF9N2Q2A;
+				GCC_OPTIMIZATION_LEVEL = fast;
 				INFOPLIST_FILE = CheckInOMAPP/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

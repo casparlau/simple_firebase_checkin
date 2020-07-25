@@ -35,7 +35,7 @@
                                     <action selector="checkIn" destination="BYZ-38-t0r" eventType="touchUpInside" id="Jx6-p6-Qq2"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="User: JellyFish" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F8a-DM-2o5">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="User: OMAPP" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F8a-DM-2o5" userLabel="User: OMAPP">
                                 <rect key="frame" x="104.5" y="291" width="111" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="111.5" id="s1h-MT-Udx"/>
